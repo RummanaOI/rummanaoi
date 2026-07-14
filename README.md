@@ -7,7 +7,7 @@ Computer Science Honours student with experience in fintech as a Business Analys
 ## Featured Project: STAMPd
 
 ### ☕ STAMPd
-A full-stack website and bespoke business management platform developed for a South African coffee shop.
+A full-stack website and bespoke business management platform developed for a South African karak cart and laser printing business.
 
 🌐 **Live Website:** https://stampdza.co.za
 
